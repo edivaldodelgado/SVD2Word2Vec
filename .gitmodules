@@ -1,0 +1,3 @@
+[submodule "word2vec-pt-br"]
+	path = word2vec-pt-br
+	url = https://github.com/felipeparpinelli/word2vec-pt-br.git
